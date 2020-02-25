@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\bin\Debug\cvekŠpraljaJakovKlaseIObjekti.exe.config
+C:\Users\3.D\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\bin\Debug\cvekŠpraljaJakovKlaseIObjekti.exe
+C:\Users\3.D\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\bin\Debug\cvekŠpraljaJakovKlaseIObjekti.pdb
+C:\Users\3.D\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\obj\Debug\cvekŠpraljaJakovKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\obj\Debug\cvekŠpraljaJakovKlaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\obj\Debug\cvekŠpraljaJakovKlaseIObjekti.exe
+C:\Users\3.D\source\repos\cvekŠpraljaJakovKlaseIObjekti\cvekŠpraljaJakovKlaseIObjekti\obj\Debug\cvekŠpraljaJakovKlaseIObjekti.pdb
